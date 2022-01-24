@@ -1,7 +1,7 @@
-<h3> Olá, sou o Pedro ;) </h3>
+<h3> Olá, sou o Pedro Faria ;) </h3>
 
 
-💻 Especialista de automação de testes na Base2 Tecnologia <br>
-🏡 Brasileiro, morando em Belo Horizonte, Minas Gerais
+💻 Engenheiro de qualidade de software sênior na Rock Content <br>
+🏡 Brasileiro, morando em Bom Despacho, Minas Gerais
 
 
