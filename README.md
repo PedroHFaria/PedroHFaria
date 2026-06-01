@@ -4,7 +4,7 @@
 <br>
 
 <ul dir="auto">
-<li>Engenheiro de qualidade de Software Senior na <a href="https://rockcontent.com/" rel="nofollow">Rock Content</a></li>
+<li>Engenheiro de qualidade de Software Senior na <a href="https://sovos.com/" rel="nofollow">Sovos</a></li>
 <li>Brasileiro, morando em Bom Despacho, Minas Gerais</li>
 <li>Amante da tecnologia</li>
 </ul>
